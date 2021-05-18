@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently studying 3rd year Computer Science Engineering
 - 🌱 I’m currently learning Git and Github
 - 👯 I’m looking to collaborate on ...
